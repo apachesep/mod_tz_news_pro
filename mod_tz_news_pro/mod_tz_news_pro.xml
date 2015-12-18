@@ -590,4 +590,8 @@
             </fieldset>
         </fields>
     </config>
+	
+    <updateservers>
+        <server type="extension" priority="1" name="TZ News Pro Module"><![CDATA[http://joomla.templaza.net/extensions/updates/modules/mod_tz_news_pro_update.xml]]></server>
+    </updateservers>
 </extension>
